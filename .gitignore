@@ -1,0 +1,8 @@
+.env
+*.sqlite3
+db_respaldo_*
+venv/
+__pycache__/
+media/
+usuarios_carga.csv
+*.zip
